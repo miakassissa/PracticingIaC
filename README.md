@@ -15,7 +15,6 @@ cd PracticingIaC (se trouver dans le dossier du repo)
 terraform destroy -auto-approve
 
 **Change:** (latest detail from top)
-Code has been changed on 11th April, 2020. Code is now compatible with below versions.
 
 **Versions:**
 Terraform v1.8
